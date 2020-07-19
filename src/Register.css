@@ -1,0 +1,13 @@
+.Reg {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    width: 100%;
+    max-width: 330px;
+    height: 100%;
+    color: antiquewhite;
+  }
+.line{
+    display: inline-block;
+
+}
